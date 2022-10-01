@@ -1,7 +1,1 @@
-*.zip
-*.psd
-**/node_modules/
-**/bin/
-**/zoom.txt
-**/.eslintcache
-token
+*.zip*.psd**/node_modules/**/bin/**/zoom.txt**/.eslintcache
